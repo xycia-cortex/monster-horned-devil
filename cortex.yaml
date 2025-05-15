@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-horned-devil
+  x-cortex-tag: monster-horned-devil
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: dragon
+    challenge_rating: 5
+    legendary: false
+    armor_class: 13
+    hit_points: 54
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-horned-devil
+      alias: github-token-test
